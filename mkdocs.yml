@@ -12,10 +12,16 @@ extra:
       name: TRP - SAP Help
 
 nav:
-  - Overview: index.md
-  - Details:
-      - Details1: detail1.md
-      - Details2: detail2.md
+  - About me: about_me.md
+  - Github Repos: repos.md
+  - Documentations:
+      - Git Commands: git_commands.md
+      - Markdown Docs: mkdown_docs.md
+      - Regex: regex.md
+      - Node.js best practices: nodejs.md
+      - System Design: system_design.md
+      - Unit Testing: unit_testing.md
+      - Docker: docker.md
 
 theme:
   name: "material"
