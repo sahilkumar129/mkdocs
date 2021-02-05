@@ -48,3 +48,15 @@ theme:
   hljs_languages:
     - yaml
   prev_next_buttons_location: top
+
+markdown_extensions:
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_css:
+  - css/extra.css
