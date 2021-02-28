@@ -22,6 +22,7 @@ nav:
       - System Design: system_design.md
       - Unit Testing: unit_testing.md
       - Docker: docker.md
+      - JS Design Patterns: design_patterns.md
 
 theme:
   name: "material"
